@@ -105,15 +105,6 @@
 
 
 
-<h3>GitHub Stats</h3>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manoj-0207&show_icons=true&locale=en&layout=compact" alt="manoj-0207" />
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=manoj-0207&show_icons=true&locale=en" alt="manoj-0207" />
-</p>
-
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2000&pause=1000&color=F7BC04&center=true&vCenter=true&width=435&lines=Have+a+Nice+Day!)](https://git.io/typing-svg)
