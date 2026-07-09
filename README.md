@@ -10,7 +10,7 @@
 
 <h3>About Me</h3>
 <ul>
-    <li>🌱 I’m currently learning <strong>Mobile Development in Flutter</strong></li>
+    <li>🌱 I’m currently learning <strong>Mobile Development</strong></li>
     <li>💛 I’m looking to collaborate on <strong>Java Spring Projects</strong></li>
     <li> ❝ Ask me about <strong>Java, DSA</strong></li>
     <li>📧 Reach me at: <strong>manojkumar02072003@gmail.com</strong></li>
